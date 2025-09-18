@@ -68,7 +68,7 @@
 ----
 ## 项目结构
 ├── README.md              # 项目说明文档  
-├── index.html             # html单文件，可以直接本地播放
+├── index.html             # html单文件，可以直接本地播放  
 └── worker.js              # Cloudflare Workers 代码
 
 ## API 源
