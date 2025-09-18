@@ -67,7 +67,8 @@
 - **操作按钮** - 轻触对应按钮
 ----
 ## 项目结构
-├── README.md              # 项目说明文档
+├── README.md              # 项目说明文档  
+├── index.html             # html单文件，可以直接本地播放
 └── worker.js              # Cloudflare Workers 代码
 
 ## API 源
