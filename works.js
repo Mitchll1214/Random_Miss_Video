@@ -385,7 +385,18 @@ const HTML_CONTENT = `<!DOCTYPE html>
                     'https://api.jkyai.top/API/jxbssp.php',
                     'https://api.jkyai.top/API/rmtmsp/api.php',
                     'https://api.jkyai.top/API/qcndxl.php',
-                    'https://www.hhlqilongzhu.cn/api/MP4_xiaojiejie.php'
+                    'https://www.hhlqilongzhu.cn/api/MP4_xiaojiejie.php',
+                    'https://v.api.aa1.cn/api/api-video-qing-chun/index.php',
+                    'https://api.yujn.cn/api/zzxjj.php?type=video',
+                    'https://api.linhun.pro/api/sjsp',
+                    'https://api.lolimi.cn/API/xjj/api.php',
+                    'https://api.caonm.net/api/video/m/',
+                    'https://api.wqw.red/api/video_m.php',
+                    'https://api.jrsg.top/api/video.php',
+                    'https://api.btstu.cn/sjbz/api.php?lx=meizi',
+                    'https://api.emoao.com/api/sp.php',
+                    'https://api.kuwoai.com/api/tiktok.php',
+                    'https://api.chahuo.com/api/video/girl.php'
                 ]
             };
 
